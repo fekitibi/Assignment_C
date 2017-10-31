@@ -121,6 +121,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="assignment.c" />
+    <ClCompile Include="course.c" />
+    <ClCompile Include="dbs.c" />
     <ClCompile Include="enrolment.c" />
     <ClCompile Include="list.c" />
     <ClCompile Include="student.c" />

@@ -53,5 +53,11 @@
     <ClCompile Include="student.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="course.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dbs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
