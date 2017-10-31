@@ -19,11 +19,11 @@ void print_all();
 void courses_print();
 void teachers_print();
 
-assignment find_assignment(int course_number);
-student find_student(int student_number);
-enrolment find_enrolment(int course_number);
-teacher find_teacher(int teacher_number);
-course find_course(int course_number);
+assignment_t find_assignment(int course_number);
+student_t find_student(int student_number);
+enrolment_t find_enrolment(int course_number);
+teacher_t find_teacher(int teacher_number);
+course_t find_course(int course_number);
 
 void list_course_by_stud(int student_number);
 void list_course_by_teach(int teacher_number);
